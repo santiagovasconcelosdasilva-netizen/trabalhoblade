@@ -4,7 +4,8 @@
 
     <div>
         <a href="/" style="color:white; margin-right:15px;">Home</a>
-        <a href="/produtos" style="color:white;">Produtos</a>
+        <a href="/produtos" style="color:white; margin-right:15px;">Produtos</a>
+        <a href="/contacto" style="color:white;">Contacto</a>
     </div>
 
     <input type="text" placeholder="Pesquisar..." 
