@@ -32,3 +32,4 @@ Route::post('/contacto', function (Request $request) {
 
     return redirect('/contacto')->with('sucesso', 'Mensagem enviada com sucesso!');
 });
+
